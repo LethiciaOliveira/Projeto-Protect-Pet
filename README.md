@@ -11,7 +11,7 @@ Neste repositório também está a estrutura de rede da empresa, incluindo a mod
 
 ## 🤖 Código do Chatbot
 
-- [Acessar o código do Chatbot - `protect_pet.py`](./executavel/protect_pet.py)
+- [Acessar o código do Chatbot - `protect_pet.py`](./Código - modelo de IA/protect_pet.py)
 
 ---
 
