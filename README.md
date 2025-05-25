@@ -7,35 +7,53 @@ Neste repositório também está a estrutura de rede da empresa, incluindo a mod
 
 ## 🗺️ Estrutura do Projeto
 
-## Documentação
+---
 
-- ## Modelagem de Dados
-- [DER](./Modelagem de Dados/DER.png)
-- [MER](./Modelagem de Dados/MER.png)
-- [Dicionário de Dados](./Modelagem de Dados/Dicionário de Dados.pdf)
+## 🤖 Código do Chatbot
 
-- ## Redes
-- [Planta Baixa](./Planta baixa e Configuração de IPs/Planta baixa.jpeg)
-- [Configuração de IPs](./Planta baixa e Configuração de IPs/Configuração de IPS.png)
-
-- ## Segurança da Informação
-- [Matriz GUT](./Matriz GUT e Políticas de Segurança/Matriz GUT.png)
-- [Políticas de Segurança](./Matriz GUT e Políticas de Segurança/Políticas de Segurança.pdf)
-
-
-## 🚀 Código Executável
-O código está disponível na pasta [`/executavel`](./Código - modelo de IA/protect_pet.py).  
+- [Acessar o código do Chatbot - `protect_pet.py`](./executavel/protect_pet.py)
 
 ---
 
-## 👨‍💻 Autores
-- [Seu Nome](https://github.com/seu-usuario)
-- [Seu Nome](https://github.com/seu-usuario)
+## 🗄️ Modelagem de Dados
+
+- [Diagrama MER](./diagramas/MER.png)
+- [Diagrama DER](./diagramas/DER.png)
+- [Dicionário de Dados](./diagramas/Dicionario_de_Dados.pdf)
+
+---
+
+## 🏢 Planta Baixa e Configuração de Rede
+
+- [Planta Baixa da Rede](./diagramas/Planta_Baixa.jpeg)
+- [Configuração de Endereçamento IP](./diagramas/Configuracao_de_IPS.png)
+
+---
+
+## 🔐 Documentação de Segurança
+
+- [Matriz GUT](./docs/Matriz_GUT.png)
+- [Políticas de Segurança](./docs/Politicas_de_Seguranca.pdf)
+
+---
+
+## 🚀 Como Executar o Chatbot
+
+1. Acesse a pasta [`executavel`](./executavel).
+2. Execute o arquivo Python `protect_pet.py` no Google Colab.
+
+---
+
+## 👨‍💻 Desenvolvedores
+
+- [Lethicia Oliveira](https://github.com/LethiciaOliveira) — Aluno do curso de TADS
+- [Ismael Santiago](https://github.com/Ismaelsantiago37) — Aluno do curso de TADS
 
 ---
 
 ## 📝 Licença
-Este projeto é de uso acadêmico.
+
+Este projeto foi desenvolvido para fins acadêmicos.
 
 
 
