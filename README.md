@@ -32,7 +32,7 @@ Neste repositório também está a estrutura de rede da empresa, incluindo a mod
 
 ## 🔐 Documentação de Segurança
 
-- [Matriz GUT](./docs/Matriz_GUT.png)
+- [Matriz GUT](./Matriz_GUT-e-Políticas_de_Segurança/Matriz_GUT.png)
 - [Políticas de Segurança](./docs/Politicas_de_Seguranca.pdf)
 
 ---
