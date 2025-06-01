@@ -11,35 +11,35 @@ Neste repositório também está a estrutura de rede da empresa, incluindo a mod
 
 ## 🤖 Código do Chatbot
 
-- [Acessar o código do Chatbot - `protect_pet.py`](./Código - modelo de IA/protect_pet.py)
+- [Acessar o código do Chatbot - `protect_pet.py`](./Código_modelo-de-IA/protect_pet.py)
 
 ---
 
 ## 🗄️ Modelagem de Dados
 
-- [Diagrama MER](./diagramas/MER.png)
-- [Diagrama DER](./diagramas/DER.png)
-- [Dicionário de Dados](./diagramas/Dicionario_de_Dados.pdf)
+- [MER](./Modelagem_de_Dados/MER.png)
+- [DER](./Modelagem_de_Dados/DER.png)
+- [Dicionário de Dados](./Modelagem_de_Dados/Dicionário_de_Dados.pdf)
 
 ---
 
 ## 🏢 Planta Baixa e Configuração de Rede
 
-- [Planta Baixa da Rede](./diagramas/Planta_Baixa.jpeg)
-- [Configuração de Endereçamento IP](./diagramas/Configuracao_de_IPS.png)
+- [Planta Baixa da Rede](./Planta_baixa-e-Configuração_de_IPs/Planta_baixa.jpeg)
+- [Configuração de Endereçamento IP](./Planta_baixa-e-Configuração_de_IPs/Configuração_de_IPS.png)
 
 ---
 
 ## 🔐 Documentação de Segurança
 
 - [Matriz GUT](./Matriz_GUT-e-Políticas_de_Segurança/Matriz_GUT.png)
-- [Políticas de Segurança](./docs/Politicas_de_Seguranca.pdf)
+- [Políticas de Segurança](.Matriz_GUT-e-Políticas_de_Segurança/Políticas_de_Segurança.pdf)
 
 ---
 
 ## 🚀 Como Executar o Chatbot
 
-1. Acesse a pasta [`executavel`](./executavel).
+1. Acesse a pasta [`Código_modelo-de-IA`](./Código_modelo-de-IA/protect_pet.py).
 2. Execute o arquivo Python `protect_pet.py` no Google Colab.
 
 ---
